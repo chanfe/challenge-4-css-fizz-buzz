@@ -1,0 +1,15 @@
+tbody tr:nth-child(3n) {
+    background-color: #6276A3;
+
+}
+
+tbody tr:nth-child(5n) {
+    background-color: #8AA6E5;
+
+}
+
+tbody tr:nth-child(15n) {
+    background-color: #262E40;
+    color: white;
+
+}
